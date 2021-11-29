@@ -1,0 +1,14 @@
+Laravel
+Chapter 1:
+
+-Composer
+-Install Laravel
+-Create Laravel project
+-MVC
+-Folder structure
+
+COMPOSER:
+-Composer is a tool for dependency management in PHP.
+-it allows you to declare the libraries your porject depend on and it will manage.
+
+
